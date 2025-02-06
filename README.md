@@ -1,6 +1,5 @@
 # ev-charging-optimization-india
 EV Charging Station Optimization in Indian Metropolitan Cities.
-# 🚗⚡ EV Charging Station Optimization in Indian Metropolitan Cities
 
 ## 📌 Overview
 This project explores **EV charging demand and pricing optimization** in **Indian metropolitan cities**.  
